@@ -8,6 +8,9 @@
 - git branch branchName  => (to create local branch)
 - git checkout branchName =>  (to switch branch)
 
+# Push
+- git push origin master => (according to the branch)
+
 # Deleting a remote branch
 git push origin --delete <branch>
 git push origin -d <branch>
