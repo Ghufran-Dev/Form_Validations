@@ -1,1 +1,3 @@
-sdjfl
+create git repo 
+git init in specific folder
+git remote add branchname ssh link
