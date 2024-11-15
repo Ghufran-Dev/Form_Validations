@@ -1,7 +1,8 @@
 import "./App.css"
+import FormPage from "./Pages/FormPage"
 const App = () => {
   return (
-    <div>App</div>
+    <FormPage/>
   )
 }
 
